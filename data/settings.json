@@ -159,6 +159,11 @@
 						"name": "Glitch",
 						"url": "https://glitch.com/",
 						"icon": "simple-icons:glitch"
+					},
+					{
+						"name": "CryptoZombies",
+						"url": "https://cryptozombies.io/",
+						"icon": "simple-icons:zcool"
 					}
 				]
 			},
@@ -200,19 +205,24 @@
 				"align": "left",
 				"links": [
 					{
+						"name": "Suite",
+						"url": "https://suitecrm.methodpark.de/",
+						"icon": "simple-icons:bmcsoftware"
+					},
+					{
 						"name": "GitLab",
-						"url": "https://popsci.com/",
+						"url": "https://code.methodpark.de/",
 						"icon": "mdi:gitlab"
 					},
 					{
 						"name": "Salesforce",
-						"url": "fa6-solid:user-astronaut",
+						"url": "https://ul-services.lightning.force.com/lightning/n/pse__Time_Entry",
 						"icon": "mdi:salesforce"
 					},
 					{
 						"name": "OracleHR",
-						"url": "https://blogs.nasa.gov/",
-						"icon": "mdi:oracle"
+						"url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/faces/FndOverview?fndGlobalItemNodeId=itemNode_my_information_absences1",
+						"icon": "simple-icons:oracle"
 					}
 				]
 			}
