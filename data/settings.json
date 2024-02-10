@@ -46,7 +46,7 @@
 		"timeFormat": "HH:mm",
 		"dateFormat": "DD/MM/YYYY",
 		"titleColor": "yellow",
-		"image": "assets/default-icon.svg",
+		"image": "assets/favicon.ico",
 		"data": [
 			"Time: {time}",
 			"Date: {date}",
