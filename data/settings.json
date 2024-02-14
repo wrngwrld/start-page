@@ -169,7 +169,7 @@
 			},
 			{
 				"title": "Social",
-				"color": "cyan",
+				"color": "blue",
 				"align": "left",
 				"links": [
 					{
@@ -200,8 +200,25 @@
 				]
 			},
 			{
+				"title": "UI",
+				"color": "red",
+				"align": "left",
+				"links": [
+					{
+						"name": "Dribble",
+						"url": "https://dribbble.com/",
+						"icon": "simple-icons:dribbble"
+					},
+					{
+						"name": "Behance",
+						"url": "https://www.behance.net/",
+						"icon": "simple-icons:behance"
+					}
+				]
+			},
+			{
 				"title": "Work",
-				"color": "blue",
+				"color": "cyan",
 				"align": "left",
 				"links": [
 					{
@@ -225,7 +242,18 @@
 						"icon": "simple-icons:oracle"
 					}
 				]
-			}
+			},
+      {
+        "title": "Development",
+        "color": "yellow",
+        "align": "left",
+        "links": [
+          { "name": "localhost", "url": "http://localhost/", "icon": "mdi:lan" },
+          { "name": "localhost:8000", "url": "http://localhost:8000", "icon": "mdi:lan" },
+          { "name": "localhost:8080", "url": "http://localhost:8080", "icon": "mdi:lan" },
+          { "name": "Portal - Blockchain", "url": "https://portal.id-union.blockchainlab.digital/", "icon": "mdi:lan" }
+        ]
+      }
 		]
 	}
 }
