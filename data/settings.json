@@ -119,19 +119,9 @@
 						"icon": "simple-icons:openai"
 					},
 					{
-						"name": "Spotify",
-						"url": "https://spotify.com/",
+						"name": "Your Spotify",
+						"url": "http://188.245.42.89:3000/",
 						"icon": "simple-icons:spotify"
-					},
-					{
-						"name": "Netflix",
-						"url": "https://netflix.com/",
-						"icon": "simple-icons:netflix"
-					},
-					{
-						"name": "Amazon",
-						"url": "https://amazon.com/",
-						"icon": "simple-icons:amazon"
 					}
 				]
 			},
